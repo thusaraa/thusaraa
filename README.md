@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python, data analysis**
 
-- 📫 How to reach me **thusara.work23@gmail.com**
+- 📫 How to reach me **thusara.ashen2@gmail.com**
 
 - 📄 Know about my experiences [www.myprofile.com](www.myprofile.com)
 
