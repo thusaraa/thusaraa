@@ -13,7 +13,10 @@ With a passion for AI, predictive modeling, and automation, I constantly explore
 - Data Visualization – Building interactive dashboards with Power BI and Tableau to present insights effectively.
 - SQL & Database Management – Querying and optimizing data workflows across relational databases.
 
-📄 Know about my experiences  [www.thusara-ashen.designfolio.me](https://thusara-ashen.designfolio.me/)
+
+<h3 align="center">📄 Know about my experiences</h3>  
+<h1 align="center">[www.thusara-ashen.designfolio.me](https://thusara-ashen.designfolio.me/)</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
