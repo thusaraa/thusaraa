@@ -6,7 +6,7 @@ I’m a data scientist and analyst with a strong foundation in machine learning,
 
 With a passion for AI, predictive modeling, and automation, I constantly explore innovative ways to optimize processes and drive efficiency. My experience spans working with structured and unstructured data, developing machine learning models, and building interactive visualizations to make data more accessible.
 
-Key Areas of Expertise
+<h3 align="center">🚀 Key Areas of Expertise</h3>
 
 Data Analytics – Extracting, cleaning, and analyzing large datasets to uncover trends and business opportunities.
 Machine Learning – Implementing predictive models and AI-driven solutions using Python and cutting-edge frameworks.
