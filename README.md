@@ -1,12 +1,12 @@
-<h1 align="center">🙋‍♂Introducing myself</h1>
+<h2 align="left">🙋‍♂Introducing myself</h2>
 
-<h3 align="center">🌟 Data Scientist | Data Analyst | Business Analyst | Researcher | ML/AI Enthusiast</h3>
+<h3 align="left">🌟 Data Scientist | Data Analyst | Business Analyst | Researcher | ML/AI Enthusiast</h3>
 
 I’m a data scientist and analyst with a strong foundation in machine learning, data analytics, and business intelligence. I specialize in transforming complex datasets into actionable insights, helping businesses make data-driven decisions across industries such as fashion & textiles, healthcare, finance, retail, and real estate.
 
 With a passion for AI, predictive modeling, and automation, I constantly explore innovative ways to optimize processes and drive efficiency. My experience spans working with structured and unstructured data, developing machine learning models, and building interactive visualizations to make data more accessible.
 
-<h3 align="center">🚀 Key Areas of Expertise</h3>
+<h3 align="left">🚀 Key Areas of Expertise</h3>
 
 - Data Analytics – Extracting, cleaning, and analyzing large datasets to uncover trends and business opportunities.
 - Machine Learning – Implementing predictive models and AI-driven solutions using Python and cutting-edge frameworks.
@@ -14,8 +14,8 @@ With a passion for AI, predictive modeling, and automation, I constantly explore
 - SQL & Database Management – Querying and optimizing data workflows across relational databases.
 
 
-<h3 align="center">📄 Know about my experiences</h3>  
-[My Portfolio Website](https://thusara-ashen.designfolio.me/ "Visit my portfolio")
+<h3 align="left">📄 Know about my experiences</h3>  
+[Visit my portfolio](https://thusara-ashen.designfolio.me/)
 
 
 <h3 align="left">Connect with me:</h3>
