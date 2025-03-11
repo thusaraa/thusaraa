@@ -8,10 +8,10 @@ With a passion for AI, predictive modeling, and automation, I constantly explore
 
 <h3 align="center">🚀 Key Areas of Expertise</h3>
 
-Data Analytics – Extracting, cleaning, and analyzing large datasets to uncover trends and business opportunities.
-Machine Learning – Implementing predictive models and AI-driven solutions using Python and cutting-edge frameworks.
-Data Visualization – Building interactive dashboards with Power BI and Tableau to present insights effectively.
-SQL & Database Management – Querying and optimizing data workflows across relational databases.
+- Data Analytics – Extracting, cleaning, and analyzing large datasets to uncover trends and business opportunities.
+- Machine Learning – Implementing predictive models and AI-driven solutions using Python and cutting-edge frameworks.
+- Data Visualization – Building interactive dashboards with Power BI and Tableau to present insights effectively.
+- SQL & Database Management – Querying and optimizing data workflows across relational databases.
 
 📄 Know about my experiences  [www.thusara-ashen.designfolio.me](https://thusara-ashen.designfolio.me/)
 
