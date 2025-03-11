@@ -13,7 +13,7 @@ Machine Learning – Implementing predictive models and AI-driven solutions usin
 Data Visualization – Building interactive dashboards with Power BI and Tableau to present insights effectively.
 SQL & Database Management – Querying and optimizing data workflows across relational databases.
 
-📄 Know about my experiences  [www.myprofile.com](https://thusara-ashen.designfolio.me/)
+📄 Know about my experiences  [www.thusara-ashen.designfolio.me](https://thusara-ashen.designfolio.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
