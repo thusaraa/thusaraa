@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Thusara Ashen</h1>
-<h3 align="center">A passionate business data analyst and ML/AI enthusiast</h3>
+<h1 align="center">🙋‍♂Introducing myself</h1>
 
-- 🔭 I’m currently working on [Streamlit property dashboard](https://github.com/thusaraa/streamlit-dashboard)
+<h3 align="center">🌟 Data Scientist | Data Analyst | Business Analyst | Researcher | ML/AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Data Engineering, LLMs**
+I’m a data scientist and analyst with a strong foundation in machine learning, data analytics, and business intelligence. I specialize in transforming complex datasets into actionable insights, helping businesses make data-driven decisions across industries such as fashion & textiles, healthcare, finance, retail, and real estate.
 
-- 👨‍💻 All of my projects are available at [www.myprofile.com](www.myprofile.com)
+With a passion for AI, predictive modeling, and automation, I constantly explore innovative ways to optimize processes and drive efficiency. My experience spans working with structured and unstructured data, developing machine learning models, and building interactive visualizations to make data more accessible.
 
-- 📝 I regularly write articles on [www.myprofile.com](www.myprofile.com)
+Key Areas of Expertise
 
-- 💬 Ask me about **python, data analysis**
+Data Analytics – Extracting, cleaning, and analyzing large datasets to uncover trends and business opportunities.
+Machine Learning – Implementing predictive models and AI-driven solutions using Python and cutting-edge frameworks.
+Data Visualization – Building interactive dashboards with Power BI and Tableau to present insights effectively.
+SQL & Database Management – Querying and optimizing data workflows across relational databases.
 
-- 📫 How to reach me **thusara.ashen2@gmail.com**
-
-- 📄 Know about my experiences [www.myprofile.com](www.myprofile.com)
+📄 Know about my experiences  [www.myprofile.com](https://thusara-ashen.designfolio.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
