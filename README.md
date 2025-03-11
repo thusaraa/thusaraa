@@ -15,7 +15,7 @@ With a passion for AI, predictive modeling, and automation, I constantly explore
 
 
 <h3 align="center">📄 Know about my experiences</h3>  
-<h1 align="center">[www.thusara-ashen.designfolio.me](https://thusara-ashen.designfolio.me/)</h3>
+My Portfolio Website - [www.thusara-ashen.designfolio.me](https://thusara-ashen.designfolio.me/)
 
 
 <h3 align="left">Connect with me:</h3>
